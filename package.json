@@ -1,0 +1,26 @@
+{
+  "name": "crypton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikiNikOfficially/crypton-cli.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "NikiNikOfficially",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikiNikOfficially/crypton-cli/issues"
+  },
+  "homepage": "https://github.com/NikiNikOfficially/crypton-cli#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
