@@ -1,7 +1,10 @@
 # crypton-cli
 
 ### first steps:<br>
-- `git clone `
+- `git clone https://github.com/NikiNikOfficially/crypton-cli.git`
+- `cd crypton-cli` cd to cloned repo
+- `npm i` install node packages from *package.json* file
+- now you can use *crypton-cli*
 
 ### Command list:<br>
 ##### `--genKeys <exportPath>`
